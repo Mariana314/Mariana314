@@ -1,16 +1,105 @@
-## Hi there 👋
+# Mariana Ocampo Medina
 
-<!--
-**Mariana314/Mariana314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer in training with experience building real-world web applications using modern technologies like React and Node.js. Passionate about creating user-friendly interfaces and continuously improving both frontend and backend skills.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+**Frontend:**
+HTML, CSS, JavaScript, React, Bootstrap
+
+**Backend:**
+Node.js, Express
+
+**Database:**
+MySQL
+
+**Tools:**
+Git, GitHub, Visual Studio Code
+
+---
+
+## Featured Projects
+
+### DomuHouse – Real Estate Platform
+
+Web application for property management with roles such as client, agent, and administrator. Includes advanced search, property registration, and role-based dashboards.
+
+Frontend:
+https://github.com/Mariana314/DomuHouse-Front-End
+
+Backend:
+https://github.com/Mariana314/DomuHouse-BackEnd
+
+---
+
+### RodandoStore – Sales Management System (In Progress)
+
+Sales system built in C# using a three-layer architecture (Presentation, Logic, Data). Includes role-based functionality for clients, sellers, and administrators.
+
+Repository:
+https://github.com/Mariana314/RodandoStore
+
+---
+
+## Contact
+
+Email: [marianaocampomedina@gmail.com]
+GitHub: https://github.com/Mariana314
+
+---
+
+---
+
+# Versión en Español
+
+## Mariana Ocampo Medina
+
+Desarrolladora frontend en formación con experiencia en la creación de aplicaciones web reales utilizando tecnologías como React y Node.js. Apasionada por el desarrollo de interfaces amigables y en constante aprendizaje tanto en frontend como backend.
+
+---
+
+## Tecnologías
+
+**Frontend:**
+HTML, CSS, JavaScript, React, Bootstrap
+
+**Backend:**
+Node.js, Express
+
+**Base de datos:**
+MySQL
+
+**Herramientas:**
+Git, GitHub, Visual Studio Code
+
+---
+
+## Proyectos Destacados
+
+### DomuHouse – Plataforma Inmobiliaria
+
+Aplicación web para la gestión de propiedades con roles de cliente, agente y administrador. Incluye búsqueda avanzada, registro de propiedades y paneles por rol.
+
+Frontend:
+https://github.com/Mariana314/DomuHouse-Front-End
+
+Backend:
+https://github.com/Mariana314/DomuHouse-BackEnd
+
+---
+
+### RodandoStore – Sistema de Ventas (En desarrollo)
+
+Sistema de ventas desarrollado en C# con arquitectura en tres capas (Presentación, Lógica y Datos). Incluye funcionalidades por roles.
+
+Repositorio:
+https://github.com/Mariana314/RodandoStore
+
+---
+
+## Contacto
+
+Correo: [marianaocampomedina@gmail.com]
+GitHub: https://github.com/Mariana314
