@@ -2,6 +2,8 @@
 
 Frontend Developer in training with experience building real-world web applications using modern technologies like React and Node.js. Passionate about creating user-friendly interfaces and continuously improving both frontend and backend skills.
 
+Portfolio: https://portfolio-mariana-ten.vercel.app/ | GitHub: https://github.com/Mariana314
+
 ---
 
 ## Tech Stack
@@ -45,8 +47,9 @@ https://github.com/Mariana314/RodandoStore
 
 ## Contact
 
-Email: [marianaocampomedina@gmail.com]
+Email: [marianaocampomedina@gmail.com](mailto:marianaocampomedina@gmail.com)
 GitHub: https://github.com/Mariana314
+Portfolio: https://portfolio-mariana-ten.vercel.app/
 
 ---
 
@@ -57,6 +60,8 @@ GitHub: https://github.com/Mariana314
 ## Mariana Ocampo Medina
 
 Desarrolladora frontend en formación con experiencia en la creación de aplicaciones web reales utilizando tecnologías como React y Node.js. Apasionada por el desarrollo de interfaces amigables y en constante aprendizaje tanto en frontend como backend.
+
+Portfolio: https://portfolio-mariana-ten.vercel.app/ | GitHub: https://github.com/Mariana314
 
 ---
 
@@ -101,5 +106,6 @@ https://github.com/Mariana314/RodandoStore
 
 ## Contacto
 
-Correo: [marianaocampomedina@gmail.com]
+Correo: [marianaocampomedina@gmail.com](mailto:marianaocampomedina@gmail.com)
 GitHub: https://github.com/Mariana314
+Portfolio: https://portfolio-mariana-ten.vercel.app/
