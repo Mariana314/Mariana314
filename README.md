@@ -36,9 +36,9 @@ https://github.com/Mariana314/DomuHouse-BackEnd
 
 ---
 
-### RodandoStore – Sales Management System (In Progress)
+### RodandoStore – Sales Management System (Project in Development)
 
-Sales system built in C# using a three-layer architecture (Presentation, Logic, Data). Includes role-based functionality for clients, sellers, and administrators.
+Sales system currently in development, built in C# using a three-layer architecture (Presentation, Logic, Data). Includes role-based functionality for clients, sellers, and administrators.
 
 Repository:
 https://github.com/Mariana314/RodandoStore
@@ -95,9 +95,9 @@ https://github.com/Mariana314/DomuHouse-BackEnd
 
 ---
 
-### RodandoStore – Sistema de Ventas (En desarrollo)
+### RodandoStore – Sistema de Ventas (Proyecto en desarrollo)
 
-Sistema de ventas desarrollado en C# con arquitectura en tres capas (Presentación, Lógica y Datos). Incluye funcionalidades por roles.
+Sistema de ventas actualmente en desarrollo, construido en C# con arquitectura en tres capas (Presentación, Lógica y Datos). Incluye funcionalidades por roles (cliente, vendedor y administrador).
 
 Repositorio:
 https://github.com/Mariana314/RodandoStore
