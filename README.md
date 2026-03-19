@@ -45,6 +45,14 @@ https://github.com/Mariana314/RodandoStore
 
 ---
 
+### Pet Management System – Java Desktop Application  
+
+Desktop application developed in Java for managing pet records, including registration, updates, and database interaction. Focused on implementing CRUD operations and core programming logic.  
+
+https://github.com/Mariana314/GestionMascotasGUI_BD  
+
+---
+
 ## Contact
 
 Email: [marianaocampomedina@gmail.com](mailto:marianaocampomedina@gmail.com)
@@ -101,6 +109,14 @@ Sistema de ventas actualmente en desarrollo, construido en C# con arquitectura e
 
 Repositorio:
 https://github.com/Mariana314/RodandoStore
+
+---
+
+### Sistema de Gestión de Mascotas – Aplicación en Java  
+
+Aplicación de escritorio desarrollada en Java para la gestión de mascotas, incluyendo registro, actualización y conexión con base de datos. Enfocada en la implementación de operaciones CRUD y lógica de programación.  
+
+https://github.com/Mariana314/GestionMascotasGUI_BD  
 
 ---
 
